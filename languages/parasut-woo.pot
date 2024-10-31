@@ -1,0 +1,154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-21 21:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-parasut-woo-admin.php:130
+msgid "Varyasyonlu Ürün"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:145
+msgid "Eşleşme Yok"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:152
+msgid "Eşleşme Var"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:205
+msgid "API Ayarlarınız bu alandan yapılmalıdır."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:212 admin/class-parasut-woo-admin.php:219
+msgid "Paraşüt Entegrasyonu için ana ayarları bu alandan yapılmalıdır."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:226
+msgid "Paraşüt Client ID"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:235
+msgid "Paraşüt Client Secret"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:243
+msgid "Paraşüt Firma No"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:252
+msgid "Paraşüt Kullanıcı Adı"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:261
+msgid "Paraşüt Kullanıcı Şifreniz"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:269
+msgid "Paraşüt Üye Kategorinizi Eşleştirin"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:280
+msgid "Mağaza ve Paraşüt Ürünlerini Eşleştir"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:288
+msgid "Mağazadaki Eşleştirmeleri Sil"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:344
+msgid "Tüm Ürünleri Eşleştir"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:345
+msgid ""
+"Bu butona tıkladığınızda mağazanızda henüz Paraşüt hesabınıza eklenmemiş "
+"ürünler varsa bunlar artık eşleştirilmiş hale gelecektir."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:346
+msgid ""
+"ÖNEMLİ: Eğer Paraşüt Üzerinden stok takibi yapacaksanız öncelikle mutlaka "
+"stok takibini tüm ürünler için etkinleştirmelisiniz."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:351
+msgid "EŞLEŞTİRMELERİ SİL"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:352
+msgid ""
+"Bu butona tıkladığınızda mağazanızda Paraşüt hesabınız ile eşleştirilmiş tüm "
+"ürünlerin eşleştirmeleri kaldırılacaktır."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:353
+msgid ""
+"ÖNEMLİ: Eşleştirmeleri kaldırdıktan sonra eğer tekrar ürünleri "
+"eşleştirirseniz aynı ürünler PARAŞÜT'e tekrar eklenecektir ve Paraşüt "
+"üzerinden de ürünlerinizi kaldırmazsanız aynı ürünlerden 2 şer adet görür "
+"hale geleceksiniz."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:362
+msgid ""
+"Api ayarlarınızı bilgi bankamızda yer alan <a href=\"http://bilgibankasi."
+"tema.ninja/article/46-parasut-eklentisi-api-ayarlari\" target=\"_blank\">"
+"makalemizdeki</a> gibi yapabilirsiniz."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:365 admin/class-parasut-woo-admin.php:368
+msgid ""
+"Genel ayarlarınızı bilgi bankamızda yer alan <a href=\"http://bilgibankasi."
+"tema.ninja/article/46-parasut-eklentisi-api-ayarlari\" target=\"_blank\">"
+"makalemizdeki</a> gibi yapabilirsiniz."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:371
+msgid ""
+"Genel ayarlarınızı bilgi bankamızda yer alan <a href=\"/\" target=\"_blank\">"
+"makalemizdeki</a> gibi yapabilirsiniz."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:383 admin/class-parasut-woo-admin.php:408
+msgid "Paraşüt Kategorinizi Seçin"
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:497
+msgid "Tüm ürünler başarıyla eklendi."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:499
+msgid "Tebrikler! Tüm Ürünler Eşleştirilmiş Durumda."
+msgstr ""
+
+#: admin/class-parasut-woo-admin.php:657
+msgid "Tüm ürün eşleştirmeleri başarıyla kaldırıldı."
+msgstr ""
+
+#. Name of the plugin
+msgid "Parasut Woo Lite"
+msgstr ""
+
+#. Description of the plugin
+msgid "Paraşüt Ürünlerinizi ve Faturalarınızı Senkronize Edin"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.tema.ninja"
+msgstr ""
+
+#. Author of the plugin
+msgid "TemaNinja"
+msgstr ""

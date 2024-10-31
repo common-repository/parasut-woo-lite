@@ -1,0 +1,46 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .parasut-no {
+     width: 100%;
+     color:red;
+     min-height: 60px;
+ }
+ .parasut-no span {
+    font-size: 5em !important;
+    margin-left: 38%;
+ }
+.yes {
+     color:green !important;
+ }
+ .misc-parasut-visibility-variable:before,
+ .misc-parasut-visibility:before{
+     content:'';
+     left:12px;
+     position: absolute;
+     width: 16px;
+     height: 16px;
+     background-image: url('../img/parasut-icon.png');
+ }
+  .misc-parasut-visibility-variable.pasif:before,
+  .misc-parasut-visibility.pasif:before{
+      background-image: url('../img/parasut-icon-pasif.png');
+  }
+ .misc-parasut-visibility {
+    padding-left: 36px;
+ }
+ .misc-parasut-visibility-variable {
+    position: relative;
+    /* padding-right: 10px; */
+    float: right;
+    margin-right: -30px;
+    margin-top: 8px;
+ }
+ #yukleniyor {
+     width:100%;
+     height:100%;
+ }
+ .wc-metaboxes-wrapper .wc-metabox.woocommerce_variation h3 {
+     padding-right:2.5em !important;
+ }
